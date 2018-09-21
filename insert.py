@@ -1,10 +1,6 @@
-import sqlite3
-import shutil
 import os
 import subprocess
 import csv
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
 
 #Here you are asked for the csv file with the drivers for your insert statements and insert statements are created
 csv_file_loc = 'offercodes.csv'
