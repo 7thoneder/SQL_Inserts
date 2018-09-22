@@ -2,7 +2,6 @@ import os
 import subprocess
 import csv
 
-#Here you are asked for the csv file with the drivers for your insert statements and insert statements are created
 csv_file_loc = 'offercodes.csv'
 with open(csv_file_loc, 'r') as fz:
   reader = csv.reader(fz)
