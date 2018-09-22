@@ -6,7 +6,7 @@ csv_file_loc = 'offercodes.csv'
 with open(csv_file_loc, 'r') as fz:
   reader = csv.reader(fz)
   your_list = list(reader)
-filename = 'PSO134'
+filename = 'SQL'
 f = open(filename + '.txt','a')
 for p in your_list:
     format_str = """INSERT INTO businessrulez (OfferCode, ProviderID)
