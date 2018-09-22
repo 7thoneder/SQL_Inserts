@@ -1,0 +1,14 @@
+--commands to push local repo to GitHub
+
+	git remote add origin https://github.com/7thoneder/GitPrac.git
+
+
+	git push -u origin master
+
+--command to clone remote repo to local
+
+	git clone <repo site address>
+
+--command to push branches
+
+	git push <repo site address> <branch name>
