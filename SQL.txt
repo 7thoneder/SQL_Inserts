@@ -1,0 +1,40 @@
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV376", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV377", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV378", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV379", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV380", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV381", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV382", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV383", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV384", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV385", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV386", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV387", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV388", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV389", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV390", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV391", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV392", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV393", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV394", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("VV395", "21");
