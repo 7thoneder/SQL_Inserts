@@ -16,10 +16,10 @@ pipeline {
         cleanWs(cleanWhenSuccess: true)
       }
     }
-    post {
-        always {
-            junit 'build/reports/SQL_Inserts/SQL_Inserts.xml'
-        }
+  post {
+      always {
+          junit 'build/reports/SQL_Inserts/SQL_Inserts.xml'
+      }
     }
   }
 }
