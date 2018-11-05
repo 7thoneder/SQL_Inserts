@@ -14,7 +14,7 @@ pipeline {
   }
   post {
     always {
-        junit 'build/reports/SQL_Inserts/SQL_Inserts.xml'
+        junit 'build/reports/SQL_Inserts/Inserts.xml'
     }
   }
 }
