@@ -12,10 +12,4 @@ pipeline {
       }
     }
   }
-  post {
-    always {
-      junit 'Inserts.xml'
-
-    }
-  }
 }
