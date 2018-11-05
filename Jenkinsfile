@@ -11,5 +11,10 @@ pipeline {
         bat 'move SQL.txt C:\\JenkinsJobs\\SQL_Inserts'
       }
     }
+    stage('Sanity check') {
+            steps {
+                input "Was the file SQL moved?"
+            }
+        }
   }
 }
