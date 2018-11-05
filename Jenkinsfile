@@ -11,11 +11,6 @@ pipeline {
         bat 'move SQL.txt C:\\JenkinsJobs\\SQL_Inserts'
       }
     }
-    stage('WS Cleanup') {
-      steps {
-        cleanWs(cleanWhenSuccess: true)
-      }
-    }
   }
   post {
     always {
