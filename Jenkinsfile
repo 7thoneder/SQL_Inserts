@@ -13,7 +13,7 @@ pipeline {
     }
     stage('Sanity check') {
             steps {
-                input "Was the file SQL moved?"
+                input "Was the SQL file moved?"
             }
         }
   }
