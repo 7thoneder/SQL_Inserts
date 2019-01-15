@@ -38,3 +38,9 @@ INSERT INTO businessrulez (OfferCode, ProviderID)
     VALUES ("VV394", "21");
 INSERT INTO businessrulez (OfferCode, ProviderID)
     VALUES ("VV395", "21");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("WFG", "22");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("WNG", "22");
+INSERT INTO businessrulez (OfferCode, ProviderID)
+    VALUES ("WYG", "22");
